@@ -428,3 +428,32 @@ bellis perennis
 
 Raimundo Nonato Carvalho
 ```
+
+### 2º Prompt
+
+```
+bom dia, [Nome da IA]. levando em conta a máquina de gerar haikai, utilize um kigo de atual estação que relacione percepção média do clima atual à cor de temperatura oposta levando em conta o local de onde escrevo
+```
+
+### 3º Prompt
+
+```
+pode refinar a métrica de todos os poemas sugeridos?
+```
+
+### 4º Prompt
+
+```
+A menos que solicitado, pode apenas oferecer as sugetões de poemas?
+```
+
+### Próximos prompts
+
+Agora que calibramos a máquina, os próximos 3 prompts serão abertos:
+* no `5º prompt` precisa mudar com 5 pedidos de retrabalho de contexto
+* no `6º prompt` incluiremos 7 referências artísticas
+* no `7º prompt` buscaremos o *mono no ware* com 5 opções
+
+## Ler o Haicai final
+
+## Conclusão 
