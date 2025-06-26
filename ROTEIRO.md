@@ -471,6 +471,8 @@ Consegue me oferecer um pouco de *mono no ware* em 5 contextos dentro dessas op�
 Dentro dessas opções, qual a sua favorita?
 ```
 
-## Ler o Haicai final
-
 ## Conclusão 
+
+[Após leitura do Haicai final]
+
+Sugerir concluão para a IA
