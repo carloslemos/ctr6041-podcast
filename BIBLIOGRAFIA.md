@@ -7,7 +7,8 @@
 
 ## Artigos Científicos
 - **APPLE**. *The Illusion of Thinking: Understanding the Strengths and Limitations of Reasoning Models*. 2025. Disponível em: [https://machinelearning.apple.com/research/illusion-of-thinking](https://machinelearning.apple.com/research/illusion-of-thinking)  
-- **AMODEI, Dario**. *The Urgency of Interpretability*. 2025. Disponível em: [https://www.darioamodei.com/post/the-urgency-of-interpretability](https://www.darioamodei.com/post/the-urgency-of-interpretability)  
+- **AMODEI, Dario**. *The Urgency of Interpretability*. 2025. Disponível em: [https://www.darioamodei.com/post/the-urgency-of-interpretability](https://www.darioamodei.com/post/the-urgency-of-interpretability)
+- **BOITEN, Eerke**. *Does current AI represent a dead end?*. 2024. Disponível em [https://www.bcs.org/articles-opinion-and-research/does-current-ai-represent-a-dead-end/](https://www.bcs.org/articles-opinion-and-research/does-current-ai-represent-a-dead-end/)
 
 ## Materiais Audiovisuais
 - **MCLAREN, Norman**. *Neighbours*. Canadá: National Film Board, 1952. (8 min, animação)  
