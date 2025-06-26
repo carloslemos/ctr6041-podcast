@@ -447,12 +447,29 @@ pode refinar a métrica de todos os poemas sugeridos?
 A menos que solicitado, pode apenas oferecer as sugetões de poemas?
 ```
 
-### Próximos prompts
+### 5º Prompt
 
-Agora que calibramos a máquina, os próximos 3 prompts serão abertos:
-* no `5º prompt` precisa mudar com 5 pedidos de retrabalho de contexto
-* no `6º prompt` incluiremos 7 referências artísticas
-* no `7º prompt` buscaremos o *mono no ware* com 5 opções
+```
+Sinto falta de falar dos lugares menos óbvios: [citar 5 lugares não mencionados, exemplo: Capão Redondo, Pari, Pico do Jaraguá, Terminal do Cambuci ou Heliópolis]
+```
+
+### 6º Prompt
+
+```
+Poderia, dentro dessas suas sugestões, incluir elementos poéticos desses 7 artistas:? [exemplo: Alex Senna, OsGemeos, Karen Kueia, o poeta Glauco Matoso, o quadrinhista Glauco Matoso, Racionais MCs e a poetisa Angélica Freitas]
+```
+
+### 7º Prompt
+
+```
+Consegue me oferecer um pouco de *mono no ware* em 5 contextos dentro dessas opções sugeridas?
+```
+
+### 8º e último Prompt
+
+```
+Dentro dessas opções, qual a sua favorita?
+```
 
 ## Ler o Haicai final
 
