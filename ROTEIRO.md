@@ -475,4 +475,18 @@ Dentro dessas opções, qual a sua favorita?
 
 [Após leitura do Haicai final]
 
-Sugerir concluão para a IA
+É isso... não sei muito o que eu achei do poema, na verdade.
+
+Tem uma coisa meio melancólica pra mim nisso tudo: a gente usar a máquina pra fazer o que é legal, pra fazer o divertido. Só que divertido — pra mim — é trabalho duro. É escrever. O texto pronto é o de menos. A obra final é o de menos. Pra quem produz, é o de menos.
+
+A produção de um filme leva, sei lá, anos da concepção à distribuição. Não é possível que, pra quem cria, o melhor sejam as duas horas que vão pra tela. Aquilo é o melhor pra quem senta na cadeira, pra quem é apaixonado pelo filme pronto.
+
+Me desculpem a digressão, mas eu gosto de citar um episódio com o professor Donato Ferrari, das Artes Visuais — já aposentado. Certa vez ele me perguntou se eu gostava de mágica. De mágica de show. Eu disse que sim, meio sem saber onde aquilo ia dar. E ele me respondeu:
+
+"Você acha que mágico gosta de mágica? Que se ele vai a um show, fica feliz com a mágica? A única coisa que ele vê é como a mágica foi feita. A única coisa que ele gosta de fazer é mágica. A mágica pronta já não tem graça nenhuma pra ele."
+
+"É bom você saber: quando você passa por aquela porta, nunca mais vai gostar de ver arte como via antes."
+
+Então é isso. Não sei se gostei do poema. Acho que nem tinha como gostar, na real. Mas eu gostei de fazer mágica com vocês nesses seis meses.
+
+Muito obrigado e até a próxima.
